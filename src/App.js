@@ -18,6 +18,10 @@ function App() {
         <a href='https://t.me/festivalkazan' target='_blank' className='icon telegram'  />
         <a href='https://t.me/festivalkazan' target='_blank' className='icon instagram'  />
         
+        <div className="switch">
+          <div className="theme light"></div>
+        </div>
+
       </header>
     </div>
   );
