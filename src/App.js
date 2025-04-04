@@ -13,6 +13,10 @@ function App() {
           <a>Гарантии</a>
         </div>
 
+        <button className='btn'>Связаться</button>
+
+        <a href='https://t.me/festivalkazan' target='_blank' className='icon telegram'  />
+        <a href='https://t.me/festivalkazan' target='_blank' className='icon instagram'  />
         
       </header>
     </div>
